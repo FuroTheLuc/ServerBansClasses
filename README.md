@@ -32,12 +32,4 @@
 
 ## Installation ##
 1. Grab the latest release from the release page and unzip it in your sourcemod folder.
-2. Restart the server or type `sm plugins load BanClasses` in the console to load the plugin.
-3. The config file will be automatically generated in cfg/sourcemod/
-
-## Configuration ##
-- You can modify the phrases in addons/sourcemod/translations/BanClasses.phrases.txt.
-- Once the plugin has been loaded, you can modify the cvars in cfg/sourcemod/BanClasses.cfg.
-
-
-## Usage ##
+2. Restart the server or type `sm plugins refresh` in the console to load the plugin.
