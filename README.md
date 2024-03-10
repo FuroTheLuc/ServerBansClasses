@@ -31,5 +31,5 @@
 
 
 ## Installation ##
-1. Grab the latest release from the release page and unzip it in your sourcemod folder.
+1. Grab the latest release from the release page and place it in your "tf\addons\sourcemod\plugins\" folder.
 2. Restart the server or type `sm plugins refresh` in the console to load the plugin.
