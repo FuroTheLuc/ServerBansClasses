@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>ServerBansClasses</code></h1>
   <p>
-    <strong>Short Description</strong>
+     <!--<strong>Short Description</strong>
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
@@ -21,7 +21,7 @@
     />
     <img
         src="https://img.shields.io/github/workflow/status/FuroTheLuc/BanClasses/Compile%20and%20release"
-    />
+    />-->
   </p>
 </div>
 
