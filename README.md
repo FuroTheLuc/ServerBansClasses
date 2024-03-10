@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>BanClasses</code></h1>
+  <h1><code>ServerBansClasses</code></h1>
   <p>
     <strong>Short Description</strong>
   </p>
